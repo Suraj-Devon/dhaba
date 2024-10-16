@@ -6,7 +6,7 @@ const Home = () => {
     <div className="min-h-screen flex flex-row justify-between items-center lg:px:32 px-5 bg-[url('./assets/img/hero.jpg')] bg-cover bg-no-repeat">
       <div className="w-full lg:w-2/3 space-y-5">
         <h1 className="text-backgroundColor font-semibold text-6xl">“Indulge in a Culinary Adventure with Every Dish!”</h1>
-        <p className="text-backgroundColor">Our dishes are a celebration of flavor, freshness, and food that feels like a warm hug</p>
+        <p className="text-backgroundColor">Our dishes are a celebration of flavor, freshness, and food that feels like a warm hug !</p>
         <div className="lg:pl-44">
           <Button title="Order Now" />
         </div>
